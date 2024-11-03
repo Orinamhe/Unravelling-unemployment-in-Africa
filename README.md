@@ -15,7 +15,8 @@ Data cleaning was conducted using Python, with step-by-step code development and
 
 **Summary of Insights & Recommedation**
 
-Find detailed report in the repository
+Find detailed report in the repository.
+
 Access to electricity, government’s expenditure on education, country’s private sector and national strategies on youth employment are important factors that reduced unemployment rates in Europe, a region with the highest unemployment rates between 2010 -2015.
 
 Given the unique socio-economic dynamics in Africa, adopting a similar approach might seem futile holistically as only increasing the number of new firms seem to improve unemployment challenges.
